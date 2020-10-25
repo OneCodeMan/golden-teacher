@@ -15,9 +15,10 @@ Khabib subbed Gaethje earlier and he (Khabib) retired at 29-0.
 - [ ] Make the graph pretty
 
 ## Hard TODOs
+- [ ] Organize file structure (hard because you're gonna have to use `os` and stuff like that)
 - [ ] Add title of highest rated show
 - [ ] Add title of lowest rated show
-- [ ] Refactor to follow best practices.
+- [ ] Refactor to follow best practices
 
 ## What it looks like right now
 ### Black Mirror
