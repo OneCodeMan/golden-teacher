@@ -18,3 +18,19 @@ Khabib subbed Gaethje earlier and he (Khabib) retired at 29-0.
 - [ ] Add title of highest rated show
 - [ ] Add title of lowest rated show
 - [ ] Refactor to follow best practices.
+
+## What it looks like right now
+### Black Mirror
+![Black Mirror](https://imgur.com/zXkzBqD.png)
+
+### Fleabag
+![Fleabag](https://imgur.com/61dw6td.png)
+
+### High Maintenance
+![High Maintenance](https://imgur.com/dbw4iin.png)
+
+### Stranger Things 
+![Stranger Things](https://imgur.com/L5FyMDJ.png)
+
+### True Detective
+![True Detective](https://imgur.com/eDSjfpN.png)
